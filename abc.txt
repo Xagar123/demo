@@ -1,1 +1,2 @@
 hey welcome to first code
+in this we will learn about git and github
